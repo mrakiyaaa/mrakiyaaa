@@ -13,4 +13,4 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 - **Other:** HTML, CSS, PHP
 
 
-![mrakiyaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrakiyaaa&theme=tokyonight&hide_border=true)
+![mrakiyaaa's Stats](https://github-readme-stats.vercel.app/api?username=mrakiyaaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
