@@ -5,7 +5,7 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakiya&label=Profile%20views&color=0e75b6&style=flat" alt="mrakiya" /> </p>
 
-- 📫 How to reach me **akilalakshitha45@gmail.com**
+- 📫 How to reach me **akilalakshithaofficial@gmail.com**
 
 ## 🚀 Skills & Expertise
 
