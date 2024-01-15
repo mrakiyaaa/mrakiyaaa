@@ -15,7 +15,6 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 - **Tools:** Git
 - **Other:** HTML, CSS, PHP
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
