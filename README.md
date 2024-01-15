@@ -17,7 +17,17 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://www.linkedin.com/in/akila-lakshitha-931b19286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuja-rathnayake-0305311ba/" height="30" width="40" /></a>
+  
+<a href="https://www.facebook.com/akila.lakshitha.75?mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/itsme.anuwa" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/mr.akiyaa_?igsh=c215cHN4Z3N0aHRh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/itzme_anuja" height="30" width="40" /></a>
+
+
+<a href="--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashohara#0220" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
