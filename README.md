@@ -19,15 +19,14 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/akila-lakshitha-931b19286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuja-rathnayake-0305311ba/" height="30" width="40" /></a>
-  
-<a href="https://www.facebook.com/akila.lakshitha.75?mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/itsme.anuwa" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/mr.akiyaa_?igsh=c215cHN4Z3N0aHRh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/itzme_anuja" height="30" width="40" /></a>
-
-
-<a href="--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashohara#0220" height="30" width="40" /></a>
-
+<!-- <a href="https://twitter.com/dizzzpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dizzzpy" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/akila-lakshitha-931b19286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="--" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21904910/dizzpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21904910/dizzpy" height="30" width="40" /></a> -->
+<a href="https://www.facebook.com/akila.lakshitha.75?mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=".." height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr.akiyaa_?igsh=c215cHN4Z3N0aHRh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".." height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@dizzpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dizzpy" height="30" width="40" /></a> -->
+<!-- <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrgro6klrxyujlk7l6akaqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrgro6klrxyujlk7l6akaqa" height="30" width="40" /></a> -->
+<!-- <a href="https://discord.gg/yashohara#0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashohara#0220" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
