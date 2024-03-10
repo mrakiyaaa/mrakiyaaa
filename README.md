@@ -3,7 +3,10 @@
 
 I'm a passionate Software Engineering undergraduate at Plymouth University in the UK, driven by a curiosity for innovative technologies and a love for problem-solving. My journey into the world of code began with a hunger to understand how software shapes the world around us, and I've been hooked ever since.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakiya&label=Profile%20views&color=0e75b6&style=flat" alt="mrakiya" /> </p>
+<div align="center">
+  <h4>Profile Views</h4>
+  <img src="https://profile-counter.glitch.me/dizzpy/count.svg?"  />
+</div>
 
 - 📫 How to reach me **akilalakshithaofficial@gmail.com**
 
