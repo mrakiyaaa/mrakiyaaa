@@ -9,7 +9,7 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 
 ## 🚀 Skills & Expertise
 
-- **Languages:** C, Python, Java, JavaScript, C#
+- **Languages:** C, Java, Kotlin. JavaScript, C#
 - **Frameworks:** Bootstrap, .net
 - **Database:** SQL
 - **Tools:** Git
