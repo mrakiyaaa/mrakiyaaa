@@ -33,7 +33,7 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 <h3 align="left">Languages and Tools:</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dotnet,java,mysql,bootstrap,vscode,visualstudio,sublime,git,github,codepen,selenium,notion,figma,discord,xd,ps,ai,pr" />
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dotnet,java,mysql,bootstrap,vscode,visualstudio,git,github,selenium,notion,figma,discord,ps,ai" />
   </a>
 </p>
 
