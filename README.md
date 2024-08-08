@@ -34,33 +34,21 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
     <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,selenium,react" /><br>
 </div>
 
-<h2 align="center"> Frameworks </h2>
+<h2 align="center"> Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,ai,firebase,selenium" /><br>
 </div>
 
+<hr/>
 
-###
-<br>
-<h3 align="left">Connect with me:</h3>
+<br/>
 
-<p align="start">
-<a href="#"><img align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="https://www.linkedin.com/in/akila-lakshitha-931b19286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<!-- <a href="https://stackoverflow.com/users/21904910/dizzpy"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow"/></a> -->
-<a href="https://www.instagram.com/mr.akiyaa_?igsh=c215cHN4Z3N0aHRh&utm_source=qr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
-</p>
+<div align="center">
+<a href='https://ko-fi.com/mrakiyaa' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dotnet,java,mysql,bootstrap,vscode,visualstudio,git,github,selenium,notion,figma,discord,ps,ai" />
-  </a>
-</p>
+<br/>
 
 <br>
 
