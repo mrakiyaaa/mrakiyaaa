@@ -19,28 +19,20 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
   </a>
 </div>
 
-## 🚀 Skills & Expertise
-
-- **Languages:** C, Java, Kotlin. JavaScript, C#
-- **Frameworks:** Bootstrap, .net
-- **Database:** SQL
-- **Tools:** Git
-- **Other:** HTML, CSS, PHP
-
-<h2 align="center">⚒️ Languages ⚒️</h2>
+<h2 align="center"> Languages </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dotnet,java" /><br>
 </div>
 
-<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<h2 align="center"> Frameworks </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,selenium,react" /><br>
 </div>
 
-<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<h2 align="center"> Frameworks </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,ai,firebase,selenium" /><br>
