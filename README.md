@@ -24,7 +24,6 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 <h2 align="center"> Languages </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dotnet,java" /><br>
 </div>
 
