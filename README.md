@@ -30,7 +30,7 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 <h2 align="center"> Frameworks </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,selenium,react" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,selenium,react,spring" /><br>
 </div>
 
 <h2 align="center"> Tools </h2>
