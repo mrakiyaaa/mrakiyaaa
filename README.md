@@ -7,8 +7,6 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 
 <br>
 
-- 📫 How to reach me **akilalakshitha45@gmail.com**
-
   <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -28,6 +26,25 @@ I'm a passionate Software Engineering undergraduate at Plymouth University in th
 - **Database:** SQL
 - **Tools:** Git
 - **Other:** HTML, CSS, PHP
+
+<h2 align="center">⚒️ Languages ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dotnet,java" /><br>
+</div>
+
+<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,selenium,react" /><br>
+</div>
+
+<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,ai,firebase,selenium" /><br>
+</div>
 
 
 ###
