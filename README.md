@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akila+Lakshitha!;" />
 </h1>
 
-I'm a passionate Software Engineering undergraduate at Plymouth University in the UK, driven by a curiosity for innovative technologies and a love for problem-solving. My journey into the world of code began with a hunger to understand how software shapes the world around us, and I've been hooked ever since.
+I’m a 2nd year Software Engineering student with a keen interest in backend development and software quality assurance. I’m passionate about building reliable systems and continuously improving my skills in these areas. 😊
 
 <br>
 
