@@ -24,7 +24,7 @@ I’m a 2nd year Software Engineering student with a keen interest in backend de
 <h2 align="center"> Languages </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dotnet,java" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,java" /><br>
 </div>
 
 <h2 align="center"> Frameworks </h2>
@@ -36,7 +36,7 @@ I’m a 2nd year Software Engineering student with a keen interest in backend de
 <h2 align="center"> Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,ai,firebase,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,ai,firebase"/><br>
 </div>
 
 <hr/>
