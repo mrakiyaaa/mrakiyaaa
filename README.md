@@ -56,7 +56,11 @@ I’m a 2nd year Software Engineering student with a keen interest in backend de
 <br>
 
 <!--Hello world-->
+## Feeding
 
+  <p align="statr">
+    <img src ="https://raw.githubusercontent.com/mrakiyaaa/mrakiyaaa/output/github-contribution-grid-snake-dark.svg">
+  </p>
 
 
 ![mrakiyaaa's Stats](https://github-readme-stats.vercel.app/api?username=mrakiyaaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
@@ -64,8 +68,4 @@ I’m a 2nd year Software Engineering student with a keen interest in backend de
 ![mrakiyaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakiyaaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
-## Feeding
 
-  <p align="statr">
-    <img src ="https://raw.githubusercontent.com/mrakiyaaa/mrakiyaaa/output/github-contribution-grid-snake-dark.svg">
-  </p>
