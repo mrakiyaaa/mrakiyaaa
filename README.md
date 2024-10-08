@@ -47,8 +47,6 @@ I’m a 2nd year Software Engineering student with a keen interest in backend de
   <img src="https://profile-counter.glitch.me/mrakiyaaa/count.svg?"  />
 </div>
 <br>
-## Feeding
-
   <p align="statr">
     <img src ="https://raw.githubusercontent.com/mrakiyaaa/mrakiyaaa/output/github-contribution-grid-snake-dark.svg">
   </p>
