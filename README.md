@@ -41,21 +41,12 @@ I’m a 2nd year Software Engineering student with a keen interest in backend de
 
 <hr/>
 
-<br/>
-
-
-<br/>
-
 <br>
-
 <div align="center">
   <h4>Profile Views</h4>
   <img src="https://profile-counter.glitch.me/mrakiyaaa/count.svg?"  />
 </div>
-
 <br>
-
-<!--Hello world-->
 ## Feeding
 
   <p align="statr">
