@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akila+Lakshitha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akila+Lakshitha;" />
 </h1>
 
 I’m a 2nd year Software Engineering student with a keen interest in backend development and software quality assurance. I’m passionate about building reliable systems and continuously improving my skills in these areas. 😊
