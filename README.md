@@ -57,9 +57,18 @@ I’m a 2nd year Software Engineering student with a keen interest in backend de
   </p>
 
 
-![mrakiyaaa's Stats](https://github-readme-stats.vercel.app/api?username=mrakiyaaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<!--![mrakiyaaa's Stats](https://github-readme-stats.vercel.app/api?username=mrakiyaaa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![mrakiyaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrakiyaaa&theme=tokyonight&hide_border=true)
-![mrakiyaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakiyaaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![mrakiyaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakiyaaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) -->
+
+## Contribution Stats
+
+  <div align="start">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dizzpy&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=dizzpy&theme=gotham&hide_border=true" />
+    <img width="820px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dizzpy&theme=gotham&hide_border=true">
+    
+  </div>
 
 
 
